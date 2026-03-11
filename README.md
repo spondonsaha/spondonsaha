@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Spondon Saha 👋
 
-<!--
-**spondonsaha/spondonsaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Security Researcher | Cybersecurity Student
 
-Here are some ideas to get you started:
+I am a cybersecurity student from Bangladesh and an **Independent** security researcher. I enjoy finding vulnerabilities, learning offensive security, and improving web application security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Working On
+- Bug bounty hunting
+- Mastering API hacking(Graphql, REST)
+- Web application penetration testing
+
+## 🛠 Tools I Use
+Burp Suite • Nmap • Subfinder • Amass • Nuclei • FFUF • httpx • sqlmap • Python • Bash
+
+## 📫 How to Reach Me
+- GitHub: https://github.com/spondonsaha
+- Email: workspondon@gmail.com
+- Linkedin: https://www.linkedin.com/in/spondonsaha/
